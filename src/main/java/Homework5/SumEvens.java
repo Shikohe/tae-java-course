@@ -1,3 +1,4 @@
+//@author Misho Gogokhia
 package Homework5;
 
 public class SumEvens {
